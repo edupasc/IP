@@ -1,3 +1,5 @@
+/* IP_GICIB_ FUNCIONES | A comeeeeeer! */
+
 #include <stdio.h>
 #define L 180
 
